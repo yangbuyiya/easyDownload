@@ -1,4 +1,4 @@
-# 微信公众号文章下载工具，二开L站大佬不维护的项目
+# 微信公众号文章下载工具
 
 ![image](https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f)
 
