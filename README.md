@@ -1,6 +1,6 @@
 # 易下载-微信公众号文章下载工具
 
-<p>微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件</p>
+<p>微信公众号文章批量下载工具，支持图片、评论下载,音屏下载,跳过文章，支持保存html/markdown/pdf/数据库mysql</p>
 
  <img src="https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f" width="600" alt="" />
  <img src="https://github.com/user-attachments/assets/c430eb7d-7cb4-4889-8489-5da750b1d5a7" width="600" alt="" />
