@@ -1,10 +1,12 @@
-# 微信公众号文章下载工具
+# 易下载-微信公众号文章下载工具
 
 ![image](https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f)
 
 ![image](https://github.com/user-attachments/assets/c430eb7d-7cb4-4889-8489-5da750b1d5a7)
 
 ## 关注我
+<p style="color:red">需要源码请公众号与我联系！</p>
+
 ![qrcode_for_gh_5513da585753_344](https://github.com/user-attachments/assets/d35dd840-b16e-47e1-a26e-39643a3eb86d)
 
 
