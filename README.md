@@ -1,10 +1,27 @@
 # 易下载-微信公众号文章下载工具
+
+<p>微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件</p>
+
  <img src="https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f" width="600" alt="" />
  <img src="https://github.com/user-attachments/assets/c430eb7d-7cb4-4889-8489-5da750b1d5a7" width="600" alt="" />
  
 ## 关注我
 <p style="color:red">需要源码请公众号与我联系！《程序员不易》</p>
 <img src="https://github.com/user-attachments/assets/d35dd840-b16e-47e1-a26e-39643a3eb86d" width="600" alt="" />
+
+
+### 功能
+
+- 支持选择下载范围
+- 将网页抓换成HTML、Markdown、PDF
+- 将网页源码保存至Mysql（下载来源是网络才有效）
+- 下载图片、音频到本地
+- 添加原文链接、元数据（作者、时间、公号名）
+- 跳过现有文章
+- 下载评论
+- 下载来源（此选项只影响批量下载）：
+- 网络：就是从微信接口获取文章
+- 数据库：如果选择了**保存至Mysql**选项，数据库中会保存文章的网页源码，此时如果需要将源码转换成HTML、Markdown ，选择下载来源是数据库即可。（微信接口用得多会被限制）
 
 ### 使用
 
@@ -33,7 +50,7 @@
 
   4. 在电脑版微信打开一篇需要下载的公号的文章
 
-  5. 回到WechatDownload，会弹框提示
+  5. 回到EasyDownload，会弹框提示
 
 ![6721081e569b6569f1717ca8af49407](https://github.com/user-attachments/assets/987e9692-af77-44e8-8100-c62063d31b31)
 
@@ -41,11 +58,11 @@
 
   1. 需要安装电脑版微信
   
-  2. 在WechatDownload点击**监控下载**按钮（按钮会变颜色）
+  2. 在EasyDownload点击**监控下载**按钮（按钮会变颜色）
   
   3. 在电脑版微信打开需要下载的文章（可以打开多篇文章）
   
-  4. 回到WechatDownload，再次点击**监控下载**按钮即可开始下载
+  4. 回到EasyDownload，再次点击**监控下载**按钮即可开始下载
   
   
 - 保存至 MySql
@@ -88,15 +105,3 @@
   }
   ```
   
-### 功能
-
-- 支持选择下载范围
-- 将网页抓换成HTML、Markdown、PDF
-- 将网页源码保存至Mysql（下载来源是网络才有效）
-- 下载图片、音频到本地
-- 添加原文链接、元数据（作者、时间、公号名）
-- 跳过现有文章
-- 下载评论
-- 下载来源（此选项只影响批量下载）：
-- 网络：就是从微信接口获取文章
-- 数据库：如果选择了**保存至Mysql**选项，数据库中会保存文章的网页源码，此时如果需要将源码转换成HTML、Markdown ，选择下载来源是数据库即可。（微信接口用得多会被限制）
