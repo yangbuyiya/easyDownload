@@ -11,8 +11,16 @@
 - 💬 评论数据完整保存
 - ⚡ 智能监控，自动下载
 
-![软件界面预览](https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f)
-![功能展示](https://github.com/user-attachments/assets/c430eb7d-7cb4-4889-8489-5da750b1d5a7)
+## ⬇️ 下载最新版本
+
+> 请前往 [GitHub Releases](https://github.com/yangbuyiya/easyDownload/releases) 下载最新版本以获得最佳体验！
+
+## 📸 软件预览
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/4c2a4bce-a28c-472f-87b1-18abfcb9564f" width="48%" alt="软件界面预览"/>
+  <img src="https://github.com/user-attachments/assets/c430eb7d-7cb4-4889-8489-5da750b1d5a7" width="48%" alt="功能展示"/>
+</div>
 
 ## 🚀 快速上手
 
